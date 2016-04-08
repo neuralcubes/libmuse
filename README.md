@@ -1,4 +1,5 @@
 # Intro
+[![Release](https://jitpack.io/v/neuracubes/libmuse.svg)](https://jitpack.io/#neuralcubes/libmuse)
 A maven repo for easy access to libmuse
 
 
