@@ -9,14 +9,14 @@ In order to use this add the following in your gradle:
 allprojects {
         repositories {
                 ...
-                        maven { url "https://jitpack.io" }
+                maven { url "https://jitpack.io" }
         }
 }
 ```
 
 ```gradle
 dependencies {
-        compile 'com.github.neuralcubes:libmuse:1.0.1'
+        compile 'com.github.neuralcubes:libmuse:1.3.0'
 }
 ```
 
@@ -35,7 +35,7 @@ or pom file:
         <dependency>
             <groupId>com.github.neuralcubes</groupId>
             <artifactId>libmuse</artifactId>
-            <version>1.0.1</version>
+            <version>1.3.0</version>
         </dependency>
 ```
 
